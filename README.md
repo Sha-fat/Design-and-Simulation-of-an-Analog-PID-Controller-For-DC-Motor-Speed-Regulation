@@ -39,7 +39,7 @@ The closed-loop control system consists of:
 
 A complete walkthrough of the circuit schematics, simulation setups, and response verification is available on YouTube:
 
-[![Project Demonstration Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+
 
 > **Link:** [(https://youtu.be/oozd_L2EEf8)]
 ---
