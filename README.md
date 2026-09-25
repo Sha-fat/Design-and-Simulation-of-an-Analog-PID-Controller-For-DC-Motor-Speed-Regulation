@@ -41,8 +41,8 @@ A complete walkthrough of the circuit schematics, simulation setups, and respons
 
 [![Project Demonstration Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
 
-> **Link:** [YOUR_YOUTUBE_VIDEO_LINK_HERE](YOUR_YOUTUBE_VIDEO_LINK_HERE)
-
+> **Link:** [[YOUR_YOUTUBE_VIDEO_LINK_HERE](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+](https://youtu.be/oozd_L2EEf8)
 ---
 
 ## How to Run the Simulations
